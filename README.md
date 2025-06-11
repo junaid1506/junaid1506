@@ -11,7 +11,7 @@
 
 - 💼 Intern at **JSC Software Company**
 - 💻 I build end-to-end web applications using the **MERN Stack**
-- 🌱 Currently improving my **backend skills** and exploring **system design**
+- 🌱 Exploring advanced **MERN Stack Development** and **Backend Architecture**
 - 💬 Ask me about: React, Node.js, MongoDB, Express, WordPress, PHP, Python
 - 📫 Reach me at **junnu2757@gmail.com**
 - 🌐 Portfolio: [portfolio-junaids-projects.vercel.app](https://portfolio-junaids-projects-006ff7f4.vercel.app/)
