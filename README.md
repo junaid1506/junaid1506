@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Intern at JSC Software Company</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;React+Specialist;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" />
 </p>
 
 ---
