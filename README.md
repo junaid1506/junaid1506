@@ -22,9 +22,9 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
