@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💼 Intern at **JSC Software Company**
+- 💼 Working at **JSC Software Company**
 - 💻 I build end-to-end web applications using the **MERN Stack**
 - 🌱 Exploring advanced **MERN Stack Development** and **Backend Architecture**
 - 💬 Ask me about: React, Node.js, MongoDB, Express, WordPress, PHP, Python
