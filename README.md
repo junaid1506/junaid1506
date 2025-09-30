@@ -1,115 +1,73 @@
-# 👋 Hi, I'm Mohammad Junaid
-
-<h3 align="center">💻 MERN Stack Developer | 🏢 Working at JSC Software Company | 🚀 Passionate Full-Stack Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Junaid</h1>
+<h3 align="center">MERN Stack Developer | Working at JSC Software Company</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+Expert;Node.js+Backend+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;React+Specialist;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" />
 </p>
 
 ---
 
-## 📖 About Me
+## 🚀 About Me
 
-```javascript
-const junaid = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "Python", "PHP", "HTML", "CSS"],
-  technologies: {
-    frontend: {
-      js: ["React", "Next.js"],
-      css: ["Bootstrap", "Tailwind CSS", "Material-UI"]
-    },
-    backend: {
-      js: ["Node.js", "Express.js"],
-      python: ["Django", "Flask"],
-      php: ["WordPress", "Laravel"]
-    },
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    devOps: ["Docker", "AWS", "Vercel", "Netlify"],
-    tools: ["Git", "GitHub", "Postman", "VS Code", "Figma"]
-  },
-  currentFocus: "Building scalable MERN stack applications",
-  funFact: "I can turn coffee ☕ into functional web applications 🚀"
-};
-🛠️ Technical Skills
-💻 Programming Languages
+- 💼 Working at **JSC Software Company**
+- 💻 I build end-to-end web applications using the **MERN Stack**
+- 🌱 Exploring advanced **MERN Stack Development** and **Backend Architecture**
+- 💬 Ask me about: React, Node.js, MongoDB, Express, WordPress, PHP, Python
+- 📫 Reach me at **junnu2757@gmail.com**
+- 🌐 Portfolio: [portfolio-junaids-projects.vercel.app](https://portfolio-junaids-projects-006ff7f4.vercel.app/)
+- 🧳 Fun Fact: I love turning caffeine into code ☕
 
+---
 
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
+### 🧰 Libraries & Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat&logo=wordpress&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59.svg?style=flat)
 
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
+---
 
-⚛️ Frontend Development
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaid1506&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaid1506&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid1506&layout=compact&theme=radical" alt="langs"/>
+</p>
 
+---
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-junaid-a13275319/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-junaids-projects-006ff7f4.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:junnu2757@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/junaid1506" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
 
-
-
-
-🚀 Backend Development
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-🔧 Tools & Platforms
-
-
-
-
-
-
-
-📊 GitHub Analytics
-<div align="center"> ![Stats](https://github-readme-stats.vercel.app/api?username=junaid1506&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-
-
-
-
-
-</div>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=junaid1506&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" /> </p>
-📫 Let's Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/mohammad-junaid-a13275319/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://portfolio-junaids-projects-006ff7f4.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /> </a> <a href="mailto:junnu2757@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/junaid1506" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-💼 Featured Projects
-🔥 MERN Stack Applications
-E-Commerce Platform - Full-stack e-commerce solution
-
-Task Management App - Productivity application with real-time updates
-
-Social Media Dashboard - Analytics dashboard for social media
-
-⚛️ React Projects
-React Portfolio - Modern portfolio website
-
-Weather App - Real-time weather application
-
-Expense Tracker - Personal finance management
-
-📝 Latest Blog Posts
-Mastering React Hooks: A Comprehensive Guide
-
-Building Scalable Node.js Applications
-
-MongoDB Best Practices for Production
-
-🎯 Currently Working On
-🔭 Enterprise MERN Stack Application at JSC Software Company
-
-🌱 Advanced Backend Architecture and Microservices
-
-👯 Open Source Contributions to React and Node.js ecosystems
-
-🤔 Optimizing Web Performance and SEO Strategies
-
-✨ Fun Facts
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quotes" /> </p> <div align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=junaid1506&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/junaid1506?style=social) ![Stars](https://img.shields.io/github/stars/junaid1506?style=social) </div> <p align="center"> <i>⚡ Code is like humor. When you have to explain it, it's bad.</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
