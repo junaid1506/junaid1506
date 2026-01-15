@@ -33,13 +33,13 @@
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,wordpress" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,wordpress" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases, Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,vercel" />
 </p>
 
 ---
@@ -47,10 +47,11 @@
 ## 📌 What I Do Best
 
 * ✅ Build full-stack MERN applications
-* ✅ Create responsive & modern UI using React
+* ✅ Create responsive & modern UI using **React + Tailwind CSS**
 * ✅ Develop RESTful APIs with Node & Express
 * ✅ Integrate MongoDB & MySQL databases
-* ✅ Convert designs into pixel-perfect code
+* ✅ Use **GitHub Copilot** for faster & cleaner development
+* ✅ Deploy & manage apps on **Vercel**
 * ✅ Optimize performance & scalability
 
 ---
