@@ -15,7 +15,7 @@
 💻 **Role:** MERN Stack Developer
 🌱 **Learning Focus:** Advanced MERN, Backend Architecture & Performance Optimization
 🧠 **Strengths:** Clean UI, Scalable APIs, Reusable Components
-💬 **Ask Me About:** React, Node.js, Express, MongoDB, WordPress, PHP, Python
+💬 **Ask Me About:** React, Node.js, Express, MongoDB, WordPress, PHP
 📫 **Email:** [junnu2757@gmail.com](mailto:junnu2757@gmail.com)
 🌐 **Portfolio:** [View My Work](https://portfolio-junaids-projects-006ff7f4.vercel.app/)
 🧳 **Fun Fact:** I convert coffee ☕ into production-ready code
@@ -27,7 +27,7 @@
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
