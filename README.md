@@ -16,7 +16,7 @@
 🌱 **Learning:** Advanced MERN, Backend Architecture & Performance Optimization  
 🧠 **Strengths:** Clean UI, Scalable APIs, Reusable Components  
 💬 **Ask Me About:** React, Node.js, Express, MongoDB, WordPress, PHP  
-📫 **Email:** [junnu2757@gmail.com](mailto:junnu2757@gmail.com)  
+📫 **Email:** [developer.jnd@gmail.com](mailto:developer.jnd@gmail.com)  
 🌐 **Portfolio:** [View My Work](https://portfolio-junaids-projects-006ff7f4.vercel.app/)  
 ☕ **Fun Fact:** I convert coffee into production-ready code  
 
